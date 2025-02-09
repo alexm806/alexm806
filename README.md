@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**alexm806/alexm806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on a variety of data projects for fun.
 - 🌱 I’m currently learning how to efficiently code / visualize data.
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me why I have so many questions!
 - 📫 How to reach me: send a pigeon!
 - ⚡ Fun fact: currently obssessed w sparkling water 🤯
--->
