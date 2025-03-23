@@ -16,5 +16,5 @@ Hi there 👋
 
 ### 🎯 Goal
 
-Build a data project and turn it into a shareable app with **Streamlit**. Data + vibes = magic and maybe some headaches
+Build a data project and turn it into a shareable app with **Streamlit**.
 
