@@ -10,7 +10,11 @@ Hi there 👋
 
 ### 🌱 Currently Learning
 
+<<<<<<< HEAD
 - Git & GitHub basics
+=======
+- Git & GitHub
+>>>>>>> 4282f528b41fe36c92d47463e2d52e9a81bd27a9
 - Python basics
 - Markdown basics (lol)
 
