@@ -10,7 +10,6 @@ Hi there 👋 :octocat:
 
 ### 🌱 Currently Learning ⚔️
 
-<<<<<<< HEAD
 - Git & GitHub basics
 - Python basics
 - Markdown basics (lol)
