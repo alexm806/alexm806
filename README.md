@@ -1,19 +1,32 @@
-Hi there 👋 :octocat:
+## Hi, I’m Alex
 
-- 🔭 I’m currently working on a variety of data projects for fun.
-- 🌱 I’m learning how to efficiently code and visualize data.
-- 👯 I’m looking to collaborate on any Rocket League projects!
-- 🤔 I’m looking for help with intro/intermediate-level Python.
-- 💬 Ask me why I have so many questions!
-- 📫 How to reach me: send a pigeon!
-- ⚡ Fun fact: currently obsessed with sparkling water 🤯
+I’m a graduate student in AI Systems & Advanced Analytics! I'm super
+interested in AI engineering, data science, and building practical 
+applications with Python.
 
-### 🌱 Currently Learning ⚔️
+My focus is on connecting data analysis and AI with well-structured
+software, from exploring datasets to building interactive tools.
 
-- Git & GitHub basics
-- Python basics
-- Markdown basics (lol)
+### Currently Working On
 
-### 🎯 Goal
+- Data science projects involving exploratory analysis and visualization
+- Python object-oriented programming and reusable software design
+- Interactive data applications with Streamlit, using pandas, NumPy, and Altair
 
-Build a data project and turn it into a shareable app with **Streamlit**.
+### Currently Learning
+
+- AI systems and how to apply them in practical projects
+- Python OOP, including classes, composition, and modular code
+- Data cleaning, analysis, and visualization
+- Git and GitHub for version control and collaboration
+
+### Goal
+
+Build useful AI and data applications that combine clear analysis,
+thoughtful design, and maintainable Python code.
+
+### Beyond the Code
+
+Before grad school, I spent a lot of time exploring Linux distros
+and training for marathons. These days, grad school consumes
+nearly all of my time!
