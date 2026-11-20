@@ -1,32 +1,27 @@
-## Hi, I’m Alex
+# Hi, I'm Alex Martinez
 
-I’m a graduate student in AI Systems & Advanced Analytics! I'm super
-interested in AI engineering, data science, and building practical 
-applications with Python.
+I'm a graduate student in AI Systems & Advanced Analytics, interested in turning data into useful analysis and practical software.
 
-My focus is on connecting data analysis and AI with well-structured
-software, from exploring datasets to building interactive tools.
+I'm seeking entry-level opportunities in **data science, machine learning, software engineering, and data engineering**. My focus is Python: exploring data, building interactive applications, and developing maintainable code.
 
-### Currently Working On
+## Featured project
 
-- Data science projects involving exploratory analysis and visualization
-- Python object-oriented programming and reusable software design
-- Interactive data applications with Streamlit, using pandas, NumPy, and Altair
+### [Marathon Training Analysis](https://github.com/alexm806/strava-marathon-analysis)
+Comparing my 2024 and 2025 marathon training using Strava activity data. The notebook explores data cleaning, pace calculation, weekly mileage, heart rate, and training volume relative to race day.
 
-### Currently Learning
+**Tools:** Python, pandas, NumPy, Matplotlib, Seaborn  
+**Status:** Exploratory analysis in progress.
 
-- AI systems and how to apply them in practical projects
-- Python OOP, including classes, composition, and modular code
-- Data cleaning, analysis, and visualization
-- Git and GitHub for version control and collaboration
+## What I'm working on
 
-### Goal
+- **Data science:** exploratory analysis, visualization, and interpreting results.
+- **Machine learning:** graduate coursework and practical model development.
+- **Software engineering:** Python object-oriented programming, reusable modules, and Git.
+- **Data applications:** interactive tools with Streamlit, pandas, and Altair.
+- **Data engineering:** developing SQL, data ingestion, and storage fundamentals.
 
-Build useful AI and data applications that combine clear analysis,
-thoughtful design, and maintainable Python code.
+## Beyond the code
 
-### Beyond the Code
+Marathon runner and Linux enthusiast. My running data gives me a personal reason to ask better questions of a dataset.
 
-Before grad school, I spent a lot of time exploring Linux distros
-and training for marathons. These days, grad school consumes
-nearly all of my time!
+[Explore my repositories](https://github.com/alexm806?tab=repositories)
